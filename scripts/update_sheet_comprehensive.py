@@ -33,11 +33,34 @@ print("=" * 100 + "\n")
 # 1. 기사 파일 읽기
 print("📄 기사 파일 읽기 중...")
 
+def extract_article_body(filepath):
+    """YAML 프론트매터와 스키마 마크업을 제외한 본문 추출"""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        content = f.read()
+
+    # YAML 프론트매터 제거 (---)
+    parts = content.split('---')
+    if len(parts) >= 3:
+        body = parts[2]
+    else:
+        body = content
+
+    # 스키마 마크업 제거 (<script> 태그)
+    import re
+    body = re.sub(r'<script[^>]*>.*?</script>', '', body, flags=re.DOTALL)
+
+    # 추가 정리
+    body = body.strip()
+
+    return body
+
 with open(f'{PROJECT_DIR}/content/published/요약-슬라이드.md', 'r', encoding='utf-8') as f:
     summary_slide_content = f.read()
+summary_slide_body = extract_article_body(f'{PROJECT_DIR}/content/published/요약-슬라이드.md')
 
 with open(f'{PROJECT_DIR}/content/published/프레젠테이션-구성.md', 'r', encoding='utf-8') as f:
     presentation_content = f.read()
+presentation_body = extract_article_body(f'{PROJECT_DIR}/content/published/프레젠테이션-구성.md')
 
 # 2. 리서치 데이터 읽기
 with open(f'{PROJECT_DIR}/research/요약-슬라이드.json', 'r', encoding='utf-8') as f:
@@ -59,6 +82,7 @@ korean_draft_data = [
     ["단어 수", "2480"],
     ["읽기 시간", "12분"],
     ["검수 상태", "✅ APPROVED"],
+    ["본문", summary_slide_body],
     ["", ""],
     ["📌 프레젠테이션 구성", ""],
     ["제목", "프레젠테이션 구성 방법: 청중을 사로잡는 7단계 공식 (2026)"],
@@ -67,6 +91,7 @@ korean_draft_data = [
     ["단어 수", "2450"],
     ["읽기 시간", "12분"],
     ["검수 상태", "✅ APPROVED"],
+    ["본문", presentation_body],
 ]
 
 # 4. 리서치 탭 데이터 준비
@@ -97,23 +122,57 @@ print("\n🌐 Claude API로 번역 중...")
 
 def translate_text(text, target_language):
     """텍스트를 목표 언어로 번역"""
-    message = client.messages.create(
-        model="claude-opus-4-6",
-        max_tokens=4000,
-        messages=[
-            {
-                "role": "user",
-                "content": f"""Translate the following content to {target_language}.
-Keep the same structure and formatting. Preserve URLs, numbers, and special formatting.
+    # 긴 텍스트를 청크로 나눠서 번역
+    max_chars_per_request = 10000
+    if len(text) <= max_chars_per_request:
+        message = client.messages.create(
+            model="claude-opus-4-6",
+            max_tokens=8000,
+            messages=[
+                {
+                    "role": "user",
+                    "content": f"""Translate the following content to {target_language}.
+Keep the same structure and formatting. Preserve URLs, numbers, special formatting, and markdown.
 
 Content:
-{text[:2000]}"""
-            }
-        ]
-    )
-    return message.content[0].text
+{text}"""
+                }
+            ]
+        )
+        return message.content[0].text
+    else:
+        # 큰 텍스트는 부분별로 번역
+        parts = []
+        current_pos = 0
+        while current_pos < len(text):
+            chunk = text[current_pos:current_pos + max_chars_per_request]
+            # 문장 경계에서 자르기
+            last_period = chunk.rfind('.')
+            if last_period > max_chars_per_request * 0.7:
+                chunk = chunk[:last_period + 1]
+                current_pos += last_period + 1
+            else:
+                current_pos += len(chunk)
 
-# 기사 제목과 메타 설명만 번역 (전체 번역은 너무 오래 걸림)
+            message = client.messages.create(
+                model="claude-opus-4-6",
+                max_tokens=8000,
+                messages=[
+                    {
+                        "role": "user",
+                        "content": f"""Translate the following content to {target_language}.
+Keep the same structure and formatting. Preserve URLs, numbers, special formatting, and markdown.
+
+Content:
+{chunk}"""
+                    }
+                ]
+            )
+            parts.append(message.content[0].text)
+
+        return '\n'.join(parts)
+
+# 제목과 메타 설명만 번역
 print("  ⏳ 영어 번역 중...")
 english_summary_title = "How to Create a Summary Slide: A 3-Step Formula to Condense Your Presentation in 1 Slide (2026)"
 english_summary_desc = "Struggling with summary slide design? Learn a proven 3-step formula (Select-Structure-Visualize) to effectively summarize your presentation."
