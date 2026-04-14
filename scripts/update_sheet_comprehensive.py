@@ -35,19 +35,20 @@ print("📄 기사 파일 읽기 중...")
 
 def extract_article_body(filepath):
     """YAML 프론트매터와 스키마 마크업을 제외한 본문 추출"""
+    import re
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # YAML 프론트매터 제거 (---)
-    parts = content.split('---')
-    if len(parts) >= 3:
-        body = parts[2]
+    # YAML 프론트매터 제거 (처음 두 개의 --- 사이)
+    match = re.match(r'^---\n(.*?)\n---\n(.*)', content, re.DOTALL)
+    if match:
+        body = match.group(2)
     else:
         body = content
 
-    # 스키마 마크업 제거 (<script> 태그)
-    import re
+    # 스키마 마크업 제거 (<script> 태그와 HTML 주석)
     body = re.sub(r'<script[^>]*>.*?</script>', '', body, flags=re.DOTALL)
+    body = re.sub(r'<!--.*?-->', '', body, flags=re.DOTALL)
 
     # 추가 정리
     body = body.strip()
