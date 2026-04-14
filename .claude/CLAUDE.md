@@ -342,9 +342,11 @@ GITHUB_TOKEN=ghp_...
 ```
 .claude/
 ├── CLAUDE.md (이 파일)
+├── miricanvas-guide.md (필독: 에이전트 참고용 가이드)
 ├── agents/
 │   ├── seo-researcher.md
 │   ├── seo-writer.md
+│   ├── seo-designer.md (새로 추가)
 │   ├── seo-optimizer.md
 │   └── seo-reviewer.md
 ├── loop.md (선택사항: /loop 커스텀)
