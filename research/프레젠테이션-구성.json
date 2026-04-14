@@ -1,0 +1,300 @@
+{
+  "keyword": "프레젠테이션 구성",
+  "analyzed_date": "2026-04-13",
+
+  "keyword_analysis": {
+    "primary_keyword": "프레젠테이션 구성",
+    "estimated_search_volume": 4400,
+    "search_difficulty": "High",
+    "user_intent": "Informational",
+    "keyword_type": "Head term",
+    "related_keywords": [
+      {
+        "keyword": "프레젠테이션 구성 방법",
+        "search_volume": 1900,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "프레젠 자료 구성",
+        "search_volume": 1300,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "PPT 구성 방법",
+        "search_volume": 2400,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "발표 PPT 만드는 법",
+        "search_volume": 1600,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "프레젠테이션 서론 본론 결론",
+        "search_volume": 880,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "PREP법 프레젠테이션",
+        "search_volume": 590,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "프레젠테이션 잘하는 법",
+        "search_volume": 3600,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "AI PPT 자동 생성",
+        "search_volume": 2900,
+        "intent": "Commercial"
+      },
+      {
+        "keyword": "파워포인트 슬라이드 구성",
+        "search_volume": 1100,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "프레젠테이션 디자인 팁",
+        "search_volume": 720,
+        "intent": "Informational"
+      }
+    ]
+  },
+
+  "competitive_analysis": {
+    "top_10_competitors": [
+      {
+        "rank": 1,
+        "url": "https://namu.wiki/w/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98",
+        "title": "프레젠테이션 - 나무위키",
+        "meta_description": "프레젠테이션의 정의, 구성 방법, PREP법 등 상세 설명. 서론·본론·결론 구조와 발표 기법 총정리.",
+        "word_count": 8000,
+        "main_topics": ["프레젠테이션 정의", "구성법 (PREP, SDS, DESC)", "발표 기법", "슬라이드 디자인", "발표 불안 극복"],
+        "internal_links_count": 50,
+        "unique_angles": ["백과사전식 포괄적 정보", "커뮤니티 편집 기반 다양한 관점", "PREP/SDS/DESC 세 가지 프레임워크 비교"]
+      },
+      {
+        "rank": 2,
+        "url": "https://www.miricanvas.com/features/ko/ai-presentation-maker",
+        "title": "프레젠테이션 AI로 PPT 만들기 - 구성부터 디자인까지 자동 완성 | 미리캔버스",
+        "meta_description": "주제 한 줄만 입력하면 PPT 슬라이드 구성과 디자인까지 몇 분 안에 완성. 한국어 폰트와 소스 풍부.",
+        "word_count": 1500,
+        "main_topics": ["AI 프레젠테이션 생성", "자동 구성", "디자인 자동 완성", "한국어 최적화"],
+        "internal_links_count": 15,
+        "unique_angles": ["제품 중심 랜딩 페이지", "AI 자동 생성 강조", "한국어 네이티브 지원 차별화"]
+      },
+      {
+        "rank": 3,
+        "url": "https://www.canva.com/ko_kr/learn/presentations/",
+        "title": "프레젠테이션 잘 만드는 팁 - Canva(캔바)",
+        "meta_description": "디자인 초보도 쉽게 따라할 수 있는 프레젠테이션 제작 팁과 템플릿 활용법.",
+        "word_count": 2500,
+        "main_topics": ["디자인 팁", "템플릿 활용", "색상 선택", "폰트 가이드", "레이아웃 원칙"],
+        "internal_links_count": 20,
+        "unique_angles": ["디자인 중심 접근", "풍부한 시각적 예시", "템플릿 바로 사용 유도"]
+      },
+      {
+        "rank": 4,
+        "url": "https://teamppt.co.kr/blog/insight/how-to-give-a-killer-presentation/",
+        "title": "프레젠테이션 잘하는 법, 10/20/30 법칙을 기억하세요 - 팀피피티",
+        "meta_description": "가이 가와사키의 10/20/30 법칙으로 프레젠테이션을 효과적으로 구성하는 방법.",
+        "word_count": 2000,
+        "main_topics": ["10/20/30 법칙", "슬라이드 수 제한", "시간 관리", "폰트 크기 규칙"],
+        "internal_links_count": 8,
+        "unique_angles": ["가이 가와사키 법칙 중심", "실전 법칙 기반 접근", "간결한 가이드"]
+      },
+      {
+        "rank": 5,
+        "url": "https://www.shutterstock.com/ko/blog/tips-on-how-to-make-effective-beautiful-powerpoint-presentations/",
+        "title": "아름다운 파워포인트 프레젠테이션을 만드는 9가지 팁 - Shutterstock",
+        "meta_description": "시각적으로 돋보이는 파워포인트 프레젠테이션 제작을 위한 9가지 실전 팁.",
+        "word_count": 2200,
+        "main_topics": ["디자인 팁 9가지", "색상 대비", "이미지 활용", "레이아웃", "애니메이션 절제"],
+        "internal_links_count": 12,
+        "unique_angles": ["시각 자산 회사 관점", "이미지/비주얼 중심 팁", "구체적 디자인 기법"]
+      },
+      {
+        "rank": 6,
+        "url": "https://publy.co/content/6560",
+        "title": "PPT 발표 잘하는 법: 인트로와 마무리 멘트 활용법 - PUBLY",
+        "meta_description": "프레젠테이션의 시작과 끝을 전략적으로 구성하는 인트로·마무리 멘트 작성법.",
+        "word_count": 3000,
+        "main_topics": ["인트로 멘트", "마무리 멘트", "청중 집중도", "스토리텔링", "발표 스킬"],
+        "internal_links_count": 10,
+        "unique_angles": ["발표 스킬 중심 (구성보다 전달)", "실전 멘트 예시 풍부", "프로페셔널 관점"]
+      },
+      {
+        "rank": 7,
+        "url": "https://brunch.co.kr/@gosuoser/7",
+        "title": "제안 프레젠테이션의 필수 요소 5가지 - 브런치",
+        "meta_description": "설득력 있는 제안 프레젠테이션을 위한 5가지 필수 구성 요소 가이드.",
+        "word_count": 1800,
+        "main_topics": ["제안서 구성", "신뢰 확보", "논리적 구성", "청중 중심", "설득 기법"],
+        "internal_links_count": 5,
+        "unique_angles": ["비즈니스 제안 특화", "설득 심리학 적용", "실무 경험 기반"]
+      },
+      {
+        "rank": 8,
+        "url": "https://www.pptplug.com/tip/?bmode=view&idx=19746194",
+        "title": "깔끔한 대학교 과제 발표 PPT 만드는 TIP 10가지 - PPT플러그",
+        "meta_description": "대학 발표 PPT를 깔끔하게 만드는 디자인 및 구성 팁 10가지.",
+        "word_count": 1500,
+        "main_topics": ["대학생 PPT", "깔끔한 디자인", "과제 발표 팁", "색상 배합", "폰트 선택"],
+        "internal_links_count": 15,
+        "unique_angles": ["대학생 타겟", "과제 발표 특화", "실용적 단계별 가이드"]
+      },
+      {
+        "rank": 9,
+        "url": "https://ahaslides.com/blog/presentation-outline-examples/",
+        "title": "성공을 위한 실용적인 프레젠테이션 개요 예시 (+ 필수 요소 8가지)",
+        "meta_description": "프레젠테이션 개요 작성법과 8가지 필수 요소, 실전 예시 모음.",
+        "word_count": 2500,
+        "main_topics": ["개요 작성법", "8가지 필수 요소", "실전 예시", "개요 템플릿", "인터랙티브 기능"],
+        "internal_links_count": 18,
+        "unique_angles": ["개요(아웃라인) 중심", "인터랙티브 프레젠테이션 도구 연계", "다양한 예시 제공"]
+      },
+      {
+        "rank": 10,
+        "url": "https://blog.newswire.co.kr/?p=9584",
+        "title": "프레젠테이션 잘하는 7가지 방법 - 홍보의 모든 것",
+        "meta_description": "직장인을 위한 프레젠테이션 잘하는 법 7가지. 구성부터 발표 기술까지.",
+        "word_count": 1800,
+        "main_topics": ["발표 방법 7가지", "직장인 대상", "구성 팁", "청중 소통", "자신감"],
+        "internal_links_count": 6,
+        "unique_angles": ["직장인/비즈니스 타겟", "간결한 리스트형", "실전 적용 위주"]
+      }
+    ],
+    "common_structure": {
+      "average_h2_count": 5,
+      "common_sections": [
+        "프레젠테이션이란 (정의/개요)",
+        "기본 구성: 서론·본론·결론",
+        "구성 프레임워크 (PREP, SDS, DESC, 10/20/30 법칙)",
+        "슬라이드 디자인 팁",
+        "발표 스킬/전달력",
+        "흔한 실수와 주의사항",
+        "도구 추천 (파워포인트, 캔바, AI 도구)"
+      ],
+      "typical_word_count": 2200
+    },
+    "content_gaps": [
+      "PREP, SDS, DESC 세 가지 프레임워크를 실전 예시와 함께 체계적으로 비교한 콘텐츠 부족",
+      "초보자가 바로 따라할 수 있는 단계별(Step-by-step) 구성 가이드 부족",
+      "AI 도구를 활용한 구성 자동화를 교육적으로 설명한 콘텐츠 부족 (대부분 제품 랜딩 페이지)",
+      "상황별(업무 보고, 대학 발표, 세일즈 피칭, 세미나) 맞춤 구성법 통합 가이드 없음",
+      "프레젠테이션 구성 체크리스트/템플릿을 다운로드 가능한 형태로 제공하는 콘텐츠 부족",
+      "한국 직장인/대학생 실제 사례 기반 콘텐츠 부족 (대부분 일반론)"
+    ]
+  },
+
+  "market_trends": {
+    "regional_trends": {
+      "korea": {
+        "search_interest": "High",
+        "trend_direction": "Growing",
+        "seasonal_pattern": "3월(신학기), 9월(하반기 시작), 12월(연말 보고) 검색량 급증. 여름 방학기(7-8월) 소폭 감소.",
+        "notes": "한국에서는 '발표 PPT 만들기', 'PPT 디자인', 'AI PPT 생성' 등 실용적 키워드와 함께 검색됨. 네이버 블로그·브런치에 관련 콘텐츠 다수. 미리캔버스, 캔바 등 AI 도구 관심 급증."
+      },
+      "us_uk": {
+        "search_interest": "High",
+        "trend_direction": "Growing",
+        "seasonal_pattern": "연중 고른 검색량. Q1(연초 기획), Q3(연말 준비) 소폭 증가.",
+        "notes": "영어권에서는 'presentation structure', 'how to structure a presentation', 'presentation framework' 등으로 검색. 2026년 비선형(Non-Linear) 프레젠테이션과 AI 생성 도구 트렌드가 강세. Pyramid Principle, Hero's Journey 프레임워크 인기."
+      },
+      "japan": {
+        "search_interest": "Medium",
+        "trend_direction": "Stable",
+        "seasonal_pattern": "4월(신년도), 10월(하반기) 검색량 증가. 연중 비교적 안정적.",
+        "notes": "일본에서는 'プレゼンテーション 構成', 'プレゼン資料 作り方'로 검색. 序論·本論·結論 구조와 PREP법이 주류. 에프소(Epson), 어도비(Adobe), 우데미(Udemy) 등의 교육 콘텐츠가 상위 노출. '1スライド1論点' 원칙 강조."
+      }
+    },
+    "recent_developments": [
+      "2026년 AI 프레젠테이션 생성 도구 폭발적 성장 (미리캔버스, Canva, Gamma, Beautiful.ai, POP AI 등)",
+      "비선형(Non-Linear) 프레젠테이션 트렌드: 클릭 메뉴로 섹션 이동, 대화형 발표 방식 확산",
+      "데이터 스토리텔링 강조: 단순 차트 나열이 아닌 데이터 기반 내러티브 구성",
+      "접근성(Accessibility) 기본 설계: 모든 청중이 이해할 수 있는 유니버설 디자인 적용",
+      "Docs-to-Deck 기능 확산: 문서를 자동으로 슬라이드로 변환하는 기능 보편화",
+      "2026 디자인 트렌드: 미니멀리즘 지속, 대담한 타이포그래피, 다크모드 지원"
+    ],
+    "related_trends": [
+      "AI PPT 자동 생성",
+      "프레젠테이션 디자인 트렌드 2026",
+      "비선형 프레젠테이션",
+      "데이터 시각화 및 인포그래픽",
+      "원격/하이브리드 발표 기술",
+      "인터랙티브 프레젠테이션 도구"
+    ]
+  },
+
+  "user_psychology": {
+    "pain_points": [
+      "프레젠테이션 구성 자체가 막힘 - 어디서부터 시작해야 할지 모름",
+      "서론·본론·결론의 비중과 내용 배분이 어려움",
+      "논리적 흐름 잡기가 어려워 설득력이 떨어짐",
+      "디자인 실력 부족으로 전문적인 슬라이드 제작 어려움",
+      "시간 부족 - 내용 정리보다 PPT 꾸미기에 시간 과다 소요",
+      "발표 불안증 - 구성이 탄탄하지 않으면 자신감 하락",
+      "상황별(업무 보고 vs 학교 발표 vs 세일즈 피칭) 적합한 구성법을 모름",
+      "한 슬라이드에 정보 과다 압축 → 청중 이해도 저하"
+    ],
+    "needs": [
+      "바로 따라할 수 있는 구성 공식/프레임워크",
+      "상황별 맞춤 구성 가이드 (업무, 학교, 세미나 등)",
+      "실전 예시와 함께 설명된 단계별 가이드",
+      "시간을 절약할 수 있는 AI 도구 추천",
+      "구성 체크리스트로 빠짐없이 준비",
+      "초보자도 전문적으로 보이는 팁"
+    ],
+    "goals": [
+      "청중을 설득하는 논리적 프레젠테이션 완성",
+      "짧은 시간에 효율적으로 발표 자료 제작",
+      "프레젠테이션 구성에 대한 체계적 이해",
+      "전문적이고 깔끔한 슬라이드 완성",
+      "발표 자신감 향상"
+    ],
+    "search_questions": [
+      "프레젠테이션 구성은 어떻게 하나요?",
+      "PPT 서론·본론·결론 비율은?",
+      "PREP법이란 무엇인가요?",
+      "프레젠테이션 구성이 막힐 때 어떻게 하나요?",
+      "좋은 프레젠테이션의 특징은?",
+      "AI로 프레젠테이션을 자동으로 만들 수 있나요?",
+      "발표 PPT 슬라이드 몇 장이 적당한가요?",
+      "10/20/30 법칙이 뭔가요?",
+      "프레젠테이션 주제 정하는 법은?",
+      "상황별(업무 보고, 학교 발표, 피칭) 구성 방법은?"
+    ],
+    "buyer_stage": "Awareness",
+    "target_audience": "프레젠테이션 경험이 적은 직장인 초보자 및 대학생. 체계적인 구성법을 배우고 싶어하며, 시간 절약을 위한 효율적 도구에 관심이 높음."
+  },
+
+  "content_recommendations": {
+    "optimal_article_length": 2500,
+    "must_cover_topics": [
+      "프레젠테이션 구성의 기본 원칙 (서론 20%, 본론 60%, 결론 20%)",
+      "핵심 프레임워크 3가지 비교: PREP법, SDS법, DESC법 (각각 실전 예시 포함)",
+      "상황별 구성 가이드: 업무 보고 / 대학 발표 / 세일즈 피칭 / 세미나",
+      "슬라이드 구성 실전 팁 (1슬라이드 1논점, 30포인트 법칙, 10/20/30 법칙)",
+      "흔한 실수 5가지와 해결법",
+      "AI 도구를 활용한 구성 자동화 (미리캔버스 AI 프레젠테이션 기능 소개)",
+      "구성 체크리스트 (독자가 바로 활용 가능)"
+    ],
+    "unique_angle": "경쟁사들이 일반론에 그치는 반면, PREP·SDS·DESC 세 가지 프레임워크를 실전 예시와 함께 체계적으로 비교하고, 상황별(업무/학교/세일즈/세미나) 맞춤 구성법을 제공하는 '프레젠테이션 구성 완전 가이드'. AI 도구 활용법까지 포함하여 2026년 트렌드 반영.",
+    "internal_links_suggestion": [
+      "미리캔버스 AI 프레젠테이션 기능 페이지 (/features/ko/ai-presentation-maker)",
+      "미리캔버스 PPT 템플릿 모음 (/templates/presentation)",
+      "미리캔버스 디자인 팁 블로그 (/blog/design-tips)",
+      "미리캔버스 AI 기능 가이드 (help.miricanvas.com/hc/ko/articles/ai-features)"
+    ],
+    "external_authority_links": [
+      "가이 가와사키 10/20/30 법칙 원문 (guykawasaki.com)",
+      "한국경영학회 매거진 - PREP법 활용 가이드 (magazine.hankyung.com)",
+      "Microsoft PowerPoint 공식 가이드 (support.microsoft.com)",
+      "Adobe 프레젠테이션 완전 가이드 (adobe.com/jp/acrobat/roc/blog/how-to-presentation)",
+      "에프소 일본 - 프레젠테이션 구성 기초 (epson.jp/products/bizprojector/knowhow/configuration)"
+    ]
+  },
+
+  "notes": "이 키워드는 높은 검색량(4,400/월)과 높은 경쟁도를 가진 정보성 키워드입니다. 경쟁사 대부분이 일반적인 팁 나열에 그치고 있어, 체계적 프레임워크 비교 + 상황별 맞춤 가이드 + AI 도구 연계라는 차별화 전략이 효과적입니다. 미리캔버스의 AI 프레젠테이션 생성 기능이 이미 이 키워드에서 상위 노출되고 있으므로, 교육적 콘텐츠를 통해 제품 페이지로의 자연스러운 유입을 유도하는 전략이 적합합니다. 한국 시장에서는 신학기(3월)와 하반기(9월) 시즌에 맞춰 콘텐츠를 공개하면 최대 효과를 얻을 수 있습니다."
+}

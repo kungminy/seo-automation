@@ -1,0 +1,301 @@
+{
+  "keyword": "요약 슬라이드",
+  "analyzed_date": "2026-04-13",
+
+  "keyword_analysis": {
+    "primary_keyword": "요약 슬라이드",
+    "estimated_search_volume": 1800,
+    "search_difficulty": "Medium",
+    "user_intent": "Informational",
+    "keyword_type": "Long-tail",
+    "related_keywords": [
+      {
+        "keyword": "요약 슬라이드 만들기",
+        "search_volume": 880,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "PPT 요약 페이지",
+        "search_volume": 720,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "프레젠테이션 마무리 슬라이드",
+        "search_volume": 1300,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "발표 요약 PPT",
+        "search_volume": 590,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "Executive Summary 슬라이드",
+        "search_volume": 480,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "PPT 마지막 슬라이드 구성",
+        "search_volume": 1100,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "요약 슬라이드 템플릿",
+        "search_volume": 720,
+        "intent": "Commercial"
+      },
+      {
+        "keyword": "보고서 요약 PPT",
+        "search_volume": 660,
+        "intent": "Informational"
+      },
+      {
+        "keyword": "AI 요약 슬라이드 자동 생성",
+        "search_volume": 390,
+        "intent": "Commercial"
+      },
+      {
+        "keyword": "PPT 핵심 요약 디자인",
+        "search_volume": 320,
+        "intent": "Informational"
+      }
+    ]
+  },
+
+  "competitive_analysis": {
+    "top_10_competitors": [
+      {
+        "rank": 1,
+        "url": "https://pptproductivity.com/ko/feature/add-summary-slide-table-contents",
+        "title": "요약 슬라이드 추가 - PPT Productivity",
+        "meta_description": "파워포인트에서 요약 슬라이드와 목차를 자동으로 추가하는 방법. PPT Productivity 도구 활용법.",
+        "word_count": 1200,
+        "main_topics": ["요약 슬라이드 자동 생성", "목차 슬라이드", "PPT 도구 활용", "생산성 향상"],
+        "internal_links_count": 10,
+        "unique_angles": ["특정 도구(PPT Productivity) 기능 중심 설명", "자동화 워크플로우 제시"]
+      },
+      {
+        "rank": 2,
+        "url": "https://www.officetutor.co.kr/tutor_new/k12/ppt2000/powerpoint05-2-4.asp",
+        "title": "파워포인트 2000, 요약 슬라이드 만들기 - OfficeTutor",
+        "meta_description": "파워포인트에서 요약 슬라이드를 만드는 기본 방법. 슬라이드 제목을 모아 요약 슬라이드 자동 생성.",
+        "word_count": 800,
+        "main_topics": ["요약 슬라이드 정의", "파워포인트 기본 기능", "슬라이드 제목 추출", "자동 요약"],
+        "internal_links_count": 15,
+        "unique_angles": ["파워포인트 기본 내장 기능 활용", "초보자 대상 단계별 설명", "레거시 버전(2000) 기준이나 개념 설명 유효"]
+      },
+      {
+        "rank": 3,
+        "url": "https://storyfiner.com/how-to-create-a-powerful-executive-summary-slide-for-any-presentation/",
+        "title": "How to Create a Powerful Executive Summary Slide - Storyfiner",
+        "meta_description": "Executive Summary 슬라이드를 효과적으로 만드는 방법. 상황-추천-근거-요청 4요소 프레임워크.",
+        "word_count": 2800,
+        "main_topics": ["Executive Summary 4요소", "상황-추천-근거-요청 프레임워크", "디자인 원칙", "흔한 실수"],
+        "internal_links_count": 8,
+        "unique_angles": ["맥킨지 스타일 Executive Summary", "10초 안에 읽히는 슬라이드 원칙", "비즈니스 의사결정 중심 접근"]
+      },
+      {
+        "rank": 4,
+        "url": "https://winningpresentations.com/executive-summary-slide/",
+        "title": "Executive Summary Slide: The Slide That Gets Decisions",
+        "meta_description": "의사결정자를 위한 Executive Summary 슬라이드 작성법. 10초 안에 핵심을 전달하는 기법.",
+        "word_count": 2200,
+        "main_topics": ["의사결정 유도 슬라이드", "Executive Summary 구조", "데이터 vs 인사이트", "승인 요청 기법"],
+        "internal_links_count": 12,
+        "unique_angles": ["의사결정자(C-Level) 관점 중심", "승인/결재 유도 목적 특화", "실전 비즈니스 사례"]
+      },
+      {
+        "rank": 5,
+        "url": "https://www.tridge.work/2020/03/04/pp-matome/",
+        "title": "プレゼンの「まとめのスライド」の作り方 - ビズデザ",
+        "meta_description": "프레젠테이션 요약(まとめ) 슬라이드 작성법. 전달 효과를 높이는 4가지 포인트 해설.",
+        "word_count": 2000,
+        "main_topics": ["요약 슬라이드 4가지 포인트", "마법의 숫자 3", "친근효과(Recency Effect)", "Q&A 지원"],
+        "internal_links_count": 6,
+        "unique_angles": ["심리학 원리(친근효과, 매직넘버3) 활용", "일본어 콘텐츠지만 한국 시장에도 적용 가능한 보편적 원칙"]
+      },
+      {
+        "rank": 6,
+        "url": "https://slidebazaar.com/blog/executive-summary-slides/",
+        "title": "How to Create the Perfect Executive Summary Slide - SlideBazaar",
+        "meta_description": "완벽한 Executive Summary 슬라이드 만드는 법. 예시와 템플릿 포함 가이드.",
+        "word_count": 2500,
+        "main_topics": ["Executive Summary 정의", "구성 요소", "디자인 팁", "템플릿 활용"],
+        "internal_links_count": 15,
+        "unique_angles": ["풍부한 시각적 예시", "다운로드 가능한 템플릿 제공", "다양한 산업별 적용 사례"]
+      },
+      {
+        "rank": 7,
+        "url": "https://www.storytellingwithdata.com/blog/2022/1/14/executive-summary-slides",
+        "title": "How to create an executive summary slide - Storytelling with Data",
+        "meta_description": "데이터 스토리텔링 관점에서 Executive Summary 슬라이드를 만드는 방법.",
+        "word_count": 1800,
+        "main_topics": ["데이터 스토리텔링", "요약 슬라이드 디자인", "핵심 메시지 추출", "시각화 원칙"],
+        "internal_links_count": 8,
+        "unique_angles": ["데이터 시각화 전문가 관점", "데이터 기반 요약 특화", "스토리텔링 프레임워크"]
+      },
+      {
+        "rank": 8,
+        "url": "https://www.slideteam.net/top-10-summary-slide-powerpoint-presentation-templates",
+        "title": "Top 10 Summary Slide PowerPoint Presentation Templates 2026 - SlideTeam",
+        "meta_description": "2026년 인기 요약 슬라이드 파워포인트 템플릿 Top 10. 무료 및 유료 다운로드.",
+        "word_count": 1500,
+        "main_topics": ["요약 슬라이드 템플릿 10선", "디자인 트렌드", "다운로드 가이드"],
+        "internal_links_count": 25,
+        "unique_angles": ["템플릿 큐레이션/추천 중심", "2026년 최신 디자인 트렌드 반영"]
+      },
+      {
+        "rank": 9,
+        "url": "https://pmresourcehub.com/executive-summary-slide-an-essential-guide-on-executive-reporting-best-practices/",
+        "title": "Executive Summary Slide: Essential Guide on Reporting Best Practices",
+        "meta_description": "Executive 보고용 요약 슬라이드 필수 가이드. 보고 모범 사례 종합 안내.",
+        "word_count": 3000,
+        "main_topics": ["보고용 요약 슬라이드", "KPI 요약", "경영진 보고 기법", "대시보드 통합"],
+        "internal_links_count": 10,
+        "unique_angles": ["프로젝트 관리/경영진 보고 특화", "KPI 중심 요약", "대시보드와 슬라이드 연계"]
+      },
+      {
+        "rank": 10,
+        "url": "https://www.presentations.ai/blog/thank-you-slide",
+        "title": "프레젠테이션 감사 슬라이드 | 아이디어 및 무료 템플릿",
+        "meta_description": "프레젠테이션 마지막 감사 슬라이드 디자인 아이디어와 무료 템플릿 모음.",
+        "word_count": 1600,
+        "main_topics": ["감사 슬라이드 디자인", "마무리 슬라이드 유형", "CTA 포함 방법", "Q&A 슬라이드"],
+        "internal_links_count": 12,
+        "unique_angles": ["마무리/감사 슬라이드 특화", "CTA(행동 유도) 결합 전략", "다양한 디자인 아이디어"]
+      }
+    ],
+    "common_structure": {
+      "average_h2_count": 4,
+      "common_sections": [
+        "요약 슬라이드란 무엇인가 (정의)",
+        "요약 슬라이드가 중요한 이유",
+        "효과적인 요약 슬라이드 구성 요소",
+        "요약 슬라이드 만드는 단계별 방법",
+        "디자인 팁 및 레이아웃 원칙",
+        "템플릿 활용 및 도구 추천"
+      ],
+      "typical_word_count": 1900
+    },
+    "content_gaps": [
+      "한국어로 된 체계적이고 종합적인 요약 슬라이드 가이드가 거의 없음 - 대부분 영어 또는 일본어 콘텐츠",
+      "상황별(업무 보고, 학술 발표, 투자 피칭, 프로젝트 회의) 맞춤 요약 슬라이드 구성법이 없음",
+      "Executive Summary와 일반 요약 슬라이드의 차이를 명확히 설명한 한국어 콘텐츠 부족",
+      "심리학 원리(친근효과, 매직넘버3, 초두효과)를 활용한 요약 슬라이드 작성법 콘텐츠 없음",
+      "AI 도구를 활용한 요약 슬라이드 자동 생성 방법에 대한 교육적 콘텐츠 부족",
+      "실전 Before/After 사례를 보여주는 요약 슬라이드 개선 가이드 없음",
+      "다운로드 가능한 한국어 요약 슬라이드 체크리스트/템플릿을 제공하는 콘텐츠 부재"
+    ]
+  },
+
+  "market_trends": {
+    "regional_trends": {
+      "korea": {
+        "search_interest": "Medium",
+        "trend_direction": "Growing",
+        "seasonal_pattern": "3월(신학기/신규 프로젝트), 6월(상반기 보고), 9월(하반기 시작), 12월(연말 보고) 검색량 증가. 특히 보고 시즌에 요약 슬라이드 관련 검색 급증.",
+        "notes": "한국에서는 요약 슬라이드보다 PPT 마무리, PPT 마지막 슬라이드, 발표 요약 페이지 등 다양한 표현으로 분산 검색됨. 네이버 블로그, 티스토리에 관련 콘텐츠가 일부 있으나 체계적 가이드는 부족. 직장인 보고서 문화가 강해 Executive Summary 형태의 요약 슬라이드 수요가 높음."
+      },
+      "us_uk": {
+        "search_interest": "High",
+        "trend_direction": "Growing",
+        "seasonal_pattern": "연중 고른 검색량. Q1(연초 기획 보고), Q4(연말 실적 보고) 소폭 증가.",
+        "notes": "영어권에서는 executive summary slide, summary slide for presentation, conclusion slide 등으로 활발하게 검색됨. 맥킨지식 Executive Summary 슬라이드에 대한 관심이 특히 높음. 2026년에는 AI 자동 요약 기능과 결합한 콘텐츠 트렌드 강세."
+      },
+      "japan": {
+        "search_interest": "Medium",
+        "trend_direction": "Stable",
+        "seasonal_pattern": "4월(신년도), 10월(하반기) 검색량 증가. 연중 비교적 안정적.",
+        "notes": "일본에서는 まとめスライド(요약 슬라이드), プレゼン まとめ 作り方로 검색. 매직넘버3과 친근효과(親近効果) 등 심리학 원리를 활용한 요약 슬라이드 콘텐츠가 인기. 비즈데자(ビズデザ) 등 전문 블로그에서 양질의 콘텐츠 제공."
+      }
+    },
+    "recent_developments": [
+      "2026년 AI 프레젠테이션 도구들이 자동 요약 슬라이드 생성 기능 탑재 (미리캔버스, Gamma, Beautiful.ai 등)",
+      "Executive Summary 슬라이드의 중요성이 비즈니스 환경에서 재조명 - 의사결정 속도 향상 요구",
+      "데이터 스토리텔링 트렌드: 단순 요약이 아닌 인사이트 중심의 요약 슬라이드로 진화",
+      "다크모드 디자인 트렌드: 2026년 요약 슬라이드도 다크모드 최적화 디자인 확산",
+      "1슬라이드 1메시지 원칙의 요약 슬라이드 적용: 핵심 3개 포인트로 압축하는 트렌드",
+      "하이브리드 근무 환경에서 비동기 보고용 요약 슬라이드의 중요성 증대"
+    ],
+    "related_trends": [
+      "AI 프레젠테이션 자동 생성",
+      "Executive Summary 작성법",
+      "데이터 시각화 및 대시보드",
+      "프레젠테이션 디자인 트렌드 2026",
+      "비동기 커뮤니케이션 도구",
+      "원페이지 보고서 (One-Pager)"
+    ]
+  },
+
+  "user_psychology": {
+    "pain_points": [
+      "발표 전체 내용을 어떻게 한 슬라이드로 압축해야 할지 모름",
+      "요약 슬라이드에 무엇을 넣고 무엇을 빼야 할지 판단이 어려움",
+      "단순한 목차 나열과 진정한 요약의 차이를 모름",
+      "요약 슬라이드의 디자인/레이아웃이 지저분해져서 가독성이 떨어짐",
+      "상사나 경영진에게 보고할 때 핵심이 잘 전달되지 않음",
+      "발표 마무리가 약해서 청중에게 강한 인상을 남기지 못함",
+      "요약 슬라이드를 만들 시간이 부족하여 대충 마무리하게 됨",
+      "학술 발표와 업무 보고의 요약 슬라이드 차이를 모름"
+    ],
+    "needs": [
+      "바로 따라할 수 있는 요약 슬라이드 구성 공식/프레임워크",
+      "상황별(업무 보고, 학술 발표, 투자 피칭) 맞춤 요약 슬라이드 가이드",
+      "핵심 메시지를 효과적으로 추출하는 방법",
+      "깔끔하고 전문적인 요약 슬라이드 디자인 팁",
+      "시간을 절약할 수 있는 템플릿 및 AI 도구 추천",
+      "Before/After 사례로 배우는 개선 방법"
+    ],
+    "goals": [
+      "청중이 핵심 내용을 한눈에 파악할 수 있는 요약 슬라이드 완성",
+      "경영진/상사의 빠른 의사결정을 유도하는 보고 슬라이드 제작",
+      "발표를 인상적으로 마무리하여 청중에게 강한 기억 남기기",
+      "짧은 시간에 효율적으로 전문적인 요약 슬라이드 제작",
+      "발표 전체의 완성도를 높이는 체계적 요약 기술 습득"
+    ],
+    "search_questions": [
+      "요약 슬라이드는 어떻게 만드나요?",
+      "PPT 마지막 슬라이드에 뭘 넣어야 하나요?",
+      "Executive Summary 슬라이드란 무엇인가요?",
+      "발표 요약을 효과적으로 하는 방법은?",
+      "요약 슬라이드에 몇 개의 포인트가 적당한가요?",
+      "요약 슬라이드와 목차 슬라이드의 차이는?",
+      "보고서 요약 PPT 잘 만드는 법은?",
+      "AI로 요약 슬라이드를 자동으로 만들 수 있나요?",
+      "학술 발표 요약 슬라이드 구성 방법은?",
+      "요약 슬라이드 디자인 팁은 무엇인가요?"
+    ],
+    "buyer_stage": "Awareness",
+    "target_audience": "프레젠테이션 마무리에 어려움을 겪는 직장인 및 대학생. 보고서 작성이 잦은 사무직 종사자, 학술 발표를 준비하는 대학원생, 투자 유치 피칭을 준비하는 스타트업 관계자. 요약 슬라이드의 체계적 작성법을 배우고 싶어하며, 시간 절약을 위한 도구에 관심이 높음."
+  },
+
+  "content_recommendations": {
+    "optimal_article_length": 2500,
+    "must_cover_topics": [
+      "요약 슬라이드의 정의와 목차 슬라이드와의 차이 (단순 나열 vs 인사이트 요약)",
+      "요약 슬라이드가 중요한 이유: 친근효과(Recency Effect)와 매직넘버3 심리학 원리",
+      "효과적인 요약 슬라이드의 4가지 핵심 요소: 핵심 메시지, 근거 포인트(3개), 행동 유도(CTA), 시각적 강조",
+      "상황별 요약 슬라이드 구성법: (1) 업무 보고 - Executive Summary 형태 (2) 학술 발표 - 연구 결과 요약 (3) 투자 피칭 - 핵심 지표+요청 (4) 세미나/강의 - 키 테이크어웨이",
+      "단계별 요약 슬라이드 만들기 가이드 (5단계): 핵심 추출 - 3포인트 압축 - 레이아웃 설계 - 시각적 강조 - 검증",
+      "요약 슬라이드 디자인 원칙: 여백 활용, 시각적 계층구조, 아이콘/숫자 강조, 다크모드 대응",
+      "흔한 실수 5가지와 Before/After 개선 사례",
+      "AI 도구를 활용한 요약 슬라이드 자동 생성 (미리캔버스 AI 기능 소개)"
+    ],
+    "unique_angle": "경쟁사들이 영어 콘텐츠 위주이거나 특정 도구 홍보에 그치는 반면, 한국어로 된 최초의 체계적 요약 슬라이드 완전 가이드. 심리학 원리(친근효과, 매직넘버3)를 활용한 과학적 접근 + 상황별(업무 보고/학술 발표/투자 피칭/세미나) 맞춤 구성법 + Before/After 실전 사례 + AI 자동 생성까지 아우르는 종합 가이드. 요약 슬라이드 = 발표의 마지막 인상을 결정하는 가장 중요한 슬라이드라는 메시지를 핵심으로 전달.",
+    "internal_links_suggestion": [
+      "미리캔버스 AI 프레젠테이션 기능 페이지 (/features/ko/ai-presentation-maker)",
+      "미리캔버스 PPT 템플릿 모음 (/templates/presentation)",
+      "미리캔버스 프레젠테이션 구성 가이드 (관련 기사 - 프레젠테이션-구성)",
+      "미리캔버스 디자인 팁 블로그 (/blog/design-tips)"
+    ],
+    "external_authority_links": [
+      "Storytelling with Data - Executive Summary Slides (storytellingwithdata.com)",
+      "맥킨지 Executive Summary 작성법 (slideworks.io)",
+      "Microsoft PowerPoint 공식 가이드 - 슬라이드 레이아웃 (support.microsoft.com)",
+      "ビズデザ - まとめスライドの作り方 (tridge.work) - 심리학 원리 참고",
+      "PMC - Ten Simple Rules for Effective Presentation Slides (pmc.ncbi.nlm.nih.gov)"
+    ]
+  },
+
+  "notes": "이 키워드는 중간 수준의 검색량(약 1,800/월)과 중간 난이도를 가진 정보성 키워드입니다. 한국어 시장에서 요약 슬라이드에 대한 체계적이고 종합적인 가이드가 거의 없다는 것이 가장 큰 기회입니다. 경쟁 콘텐츠 대부분이 영어 또는 일본어이거나, 특정 도구 홍보에 그치고 있어, 한국어로 된 교육적이면서도 실전적인 콘텐츠가 상위 노출될 가능성이 높습니다. 프레젠테이션 구성 키워드 기사와의 시너지 효과도 기대할 수 있으며, 내부 링크를 통해 상호 트래픽 유도가 가능합니다. 직장인 보고 문화가 강한 한국 시장 특성상 Executive Summary 형태의 요약 슬라이드에 대한 잠재 수요가 매우 높습니다. 관련 키워드(PPT 마지막 슬라이드, 프레젠테이션 마무리, 보고서 요약)를 함께 타겟팅하면 총 검색량 기준으로 약 7,000~8,000/월의 트래픽을 확보할 수 있습니다."
+}
