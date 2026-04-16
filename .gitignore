@@ -29,3 +29,8 @@ venv/
 *.tmp
 *.temp
 .claude/worktrees/
+
+# API 토큰 및 민감한 스크립트
+upload_to_confluence.py
+*_confluence.py
+*_api_token*
